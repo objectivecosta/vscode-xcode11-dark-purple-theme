@@ -1,0 +1,22 @@
+{
+    "name": "xcode11-dark-theme",
+    "displayName": "xcode11-dark-theme",
+    "description": "",
+    "publisher": "Rafael Costa <rafael@rafaelcosta.me>",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xcode 11 Dark Purple Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Xcode 11 Dark Purple Theme-color-theme.json"
+            }
+        ]
+    }
+}
