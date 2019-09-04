@@ -58,7 +58,8 @@
                 "entity.name.type.class"
             ],
             "settings": {
-                "foreground": "#6bdfff"
+                // "foreground": "#6bdfff",
+                "foreground": "#ffffff"
             }
         },
         {
@@ -330,3 +331,4 @@
         }
     ]
 }
+
