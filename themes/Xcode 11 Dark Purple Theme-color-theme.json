@@ -21,7 +21,9 @@
         {
             "name": "String",
             "scope": [
-                "string.quoted"
+                "string.quoted",
+                "string.template",
+                "punctuation.definition.string"
             ],
             "settings": {
                 "foreground": "#fe8170"
